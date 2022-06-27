@@ -1,4 +1,5 @@
 ### Hi there 👋
+![AI](https://user-images.githubusercontent.com/95732821/176016191-9239c753-c154-4b06-8bc4-9876d6b492bd.jpg)
 
 <!--
 **HalimaLadan/HalimaLadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
