@@ -1,5 +1,5 @@
 ### Hi there 👋
-![AI](https://user-images.githubusercontent.com/95732821/176016191-9239c753-c154-4b06-8bc4-9876d6b492bd.jpg)
+![github_prof](https://user-images.githubusercontent.com/95732821/176019410-3185f8e3-4506-4280-aed9-ac9ececb0c68.jpg)
 
 <!--
 **HalimaLadan/HalimaLadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
